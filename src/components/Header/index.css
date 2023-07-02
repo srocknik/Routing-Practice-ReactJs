@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.list-container {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-list-item-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.info-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-image {
+  height: 20px;
+}
+.tab-text {
+  font-family: roboto;
+  color: #555555;
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 15px;
+  text-decoration: none;
+}
